@@ -1,0 +1,18 @@
+F:\Stuff\C#Projects\the game\the game\obj\Debug\the game.exe
+F:\Stuff\C#Projects\the game\the game\obj\Debug\the game.pdb
+F:\Stuff\C#Projects\the game\the game\bin\Debug\the game.exe
+F:\Stuff\C#Projects\the game\the game\bin\Debug\the game.pdb
+F:\Stuff\C#Projects\the game\the game\obj\Debug\ResolveAssemblyReference.cache
+F:\Stuff\C#Projects\the game\the game\obj\Debug\the_game.Egg.resources
+F:\Stuff\C#Projects\the game\the game\obj\Debug\the_game.Form1.resources
+F:\Stuff\C#Projects\the game\the game\obj\Debug\the_game.Properties.Resources.resources
+F:\Stuff\C#Projects\the game\the game\obj\Debug\the game.csproj.GenerateResource.Cache
+E:\Work\C\the game\the game\obj\Debug\the game.exe
+E:\Work\C\the game\the game\obj\Debug\the game.pdb
+E:\Work\C\the game\the game\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\C\the game\the game\obj\Debug\the_game.Egg.resources
+E:\Work\C\the game\the game\obj\Debug\the_game.Form1.resources
+E:\Work\C\the game\the game\obj\Debug\the game.csproj.GenerateResource.Cache
+E:\Work\C\the game\the game\bin\Debug\the game.exe
+E:\Work\C\the game\the game\bin\Debug\the game.pdb
+E:\Work\C\the game\the game\obj\Debug\the_game.Properties.Resources.resources

@@ -1,0 +1,9 @@
+bin\Debug\the game.exe
+bin\Debug\the game.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\the_game.Form1.resources
+obj\Debug\the_game.Properties.Resources.resources
+obj\Debug\the game.csproj.GenerateResource.Cache
+obj\Debug\the game.exe
+obj\Debug\the game.pdb
+obj\Debug\the_game.Egg.resources
